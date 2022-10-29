@@ -1,2 +1,2 @@
-# Assignment
-This repository contains three branches, which all contain assignments from week3, week4 and week5.
+# Week4
+This repository contains week4 Project.
