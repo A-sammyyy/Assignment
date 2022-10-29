@@ -1,2 +1,2 @@
-# Assignment
-This repository contains three branches, which all contain assignments from week3, week4 and week5.
+# My name is Ayodele, Samuel Tosin
+I am passionate about delivering equitable, usable and useful interfaces through data-based Designs and clean codes.
